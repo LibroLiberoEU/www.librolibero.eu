@@ -1,11 +1,4 @@
 baseURL = "https://www.librolibero.eu/"
 languageCode = "en-us"
 title = "LibroLibero.eu"
-theme = [ "PaperMod" ]
-
-
-[params.homeInfoParams]
-Title = "Libro Libero"
-Content = """
- Stampa le [etichette](/assets/librolibero-eu-v1.pdf)
-"""
+theme = 'ananke'
