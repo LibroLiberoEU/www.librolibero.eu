@@ -1,7 +1,7 @@
 ---
 title: "LibroLibero"
 
-description: "I libri liberati hanno diritto di rimanere liberi di essere letti gratis da tutti"
+description: "I libri liberati hanno diritto di rimanere liberi"
 ---
 Vogliamo che i libri "liberati" (donati o abbandonati) vengano letti da chiunque ma non che vengano RIVENDUTI sulle bancarelle o che finiscano imprigionati nelle librerie private!
 
