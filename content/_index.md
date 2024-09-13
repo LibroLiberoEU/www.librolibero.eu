@@ -7,4 +7,4 @@ Vogliamo che i libri "liberati" (donati o abbandonati) vengano letti da chiunque
 
 Su ogni libro liberato andrebbe attaccata un'etichetta indicando che si tratta di un libro libero! E poi sarebbe bello poter aggiungere il CAP (Codice di Avviamento Postale) del luogo di "partenza", la data di liberazione e possibilmente il nome/sigla/pseudonimo del donatore.
 
-Stampa le [etichette](/assets/librolibero-eu-v1.pdf)
+Stampa le [etichette](/librolibero-eu-v1.pdf)
